@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ServicesApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="ServicesAppTitle">Services App</string>
+    <string name="ServicesText">The purpose of the App is to show the lifecycle of Local and  Bound Services</string>
+    <string name="PDFDload">PDF Download</string>
+    <string name="title_activity_pdf">PDFActivity</string>
+    <string name="PDFLink1">PDFLink1</string>
+    <string name="PDFLink2">PDFLink2</string>
+    <string name="PDFLink3">PDFLink3</string>
+    <string name="PDFLink4">PDFLink4</string>
+    <string name="PDFLink5">PDFLink5</string>
+    <string name="link1">http://www.cisco.com/c/dam/en_us/about/ac79/docs/innov/IoE.pdf</string>
+    <string name="link2">http://www.cisco.com/c/dam/en_us/about/ac79/docs/innov/IoE_Economy.pdf</string>
+    <string name="link3">http://www.cisco.com/web/strategy/docs/gov/everything-for-cities.pdf</string>
+    <string name="link4">http://www.cisco.com/web/offer/gist_ty2_asset/Cisco_2014_ASR.pdf</string>
+    <string name="link5">http://www.cisco.com/web/offer/emear/38586/images/Presentations/P3.pdf</string>
+
+</resources>
